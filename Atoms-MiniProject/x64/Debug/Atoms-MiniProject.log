@@ -1,0 +1,35 @@
+﻿  test.cpp
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(24,49): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(26,38): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(26,24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(68,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(70,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(70,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(79,49): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(81,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(81,24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(90,49): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(92,45): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(92,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(101,49): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(103,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(103,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(112,49): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(114,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(114,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(122,49): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(124,62): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(124,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(133,49): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(135,63): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(135,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(144,49): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(146,50): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(146,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(155,49): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(157,49): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(157,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(175,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(320,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Atoms-MiniProject\Atoms-MiniProject\test.cpp(601,19): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Atoms-MiniProject.vcxproj -> D:\Atoms-MiniProject\x64\Debug\Atoms-MiniProject.exe
